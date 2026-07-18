@@ -184,5 +184,4 @@ python -m ingest.embed_and_load
 ---
 
 <p align="center">
-  Made with ❤️ for Indian Judicial Tech Innovation
 </p>
