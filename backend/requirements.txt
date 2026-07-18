@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+supabase
+google-genai>=1.0
+python-docx
+tenacity
+pydantic>=2.0
+httpx
